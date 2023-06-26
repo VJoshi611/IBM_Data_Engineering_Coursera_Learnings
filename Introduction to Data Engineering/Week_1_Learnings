@@ -96,6 +96,20 @@ so it becomes usable, storing data, and making quality data available to users s
 good understanding of all areas so that you can make more informed decisions. 
 - Your skills will grow over time with experience, the areas you choose to focus on, and the time you invest in upskilling yourself.
 
+# Tools and Tech :
+- Knowledge of working with operating systems such as UNIX, Linux, and Windows, including commonly used administrative tools, system utilities and commands. 
+- Knowledge of infrastructure components, such as virtual machines, networking, and application services, such as load balancing and application performance monitoring. 
+- cloud-based services such as those offered by Amazon, Google, IBM, and Microsoft. 
+- Experience of working with databases and data warehouses, which include: RDBMSes such as IBM DB2, MySQL, Oracle Database, and PostgreSQL. 
+- NoSQL databases such as Redis, MongoDB, Cassandra, and Neo4J. 
+- Data warehouses such as Oracle Exadata, IBM Db2 Warehouse on Cloud, IBM Netezza Performance Server, and Amazon RedShift. 
+- A high-level of proficiency working with data pipelines. Popular data pipeline solutions include Apache Beam, AirFlow, and DataFLow. 
+- Experience of working with ETL tools such as IBM Infosphere Information Server, AWS Glue, and Improvado. 
+- Query languages for accessing and manipulating data in a database, such as SQL for relational databases and SQL-like query languages for NoSQL databases. 
+- Programming languages such as Python, R, and Java. Shell and Scripting languages, such as Unix/Linux Shell and PowerShell. 
+- Familiarity with Big Data processing tools such as Hadoop, Hive, and Spark. 
+
+
 # Summary and Highlights
 The role of a Data Engineer includes:
 - Gathering data from disparate sources. Managing and cleaning data.
@@ -262,3 +276,17 @@ Data extracted from disparate sources can be stored in:
 ### Question 5
 From the provided list, select the three emerging technologies that are shaping today’s data ecosystem.
 - Cloud Computing, Machine Learning, and Big Data
+
+-----
+
+### Question 1
+Which one of these functional skills is essential to the role of a Data Engineer?
+- The ability to work with the software development lifecycle
+
+### Question 2
+Oracle Exadata, IBM Db2 Warehouse on Cloud, IBM Netezza Performance Server, and Amazon RedShift are some of the popular __________________ in use today.
+- Data Warehouses
+
+### Question 3
+Data Engineers manage the infrastructure required for the ingestion, processing, and storage of data.
+- True
