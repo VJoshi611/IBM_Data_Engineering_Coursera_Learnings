@@ -5,7 +5,7 @@ This repo shares my learnings from IBM Data Engineering Course From Coursera. Th
 
 It is a self-paced course which will help you to explore data engineering domain. This course will help you to get knowledge required for Junior Data Engineer position or any entry-level positons in big data domain.
 
-By the end of this Professional Certificate Course, any begineer can be able to explain and perform the key tasks required in a data engineering role. You will use the Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You will also work with Relational Databases (RDBMS) and query data using SQL commands. Most of the social media data is unstructured and you will use NoSQL databases and unstructured data.  You will be introduced to Big Data and work with Big Data engines like Hadoop and Spark. You will also gain experience with creating Data Warehouses and utilize Business Intelligence tools to analyze and extract valueable business insights from data .   
+By the end of this Professional Certificate Course, any begineer can be able to explain and perform the key tasks required in a data engineering role. You will use the Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You will also work with Relational Databases (RDBMS) and query data using SQL commands. Most of the social media data is unstructured and you will use NoSQL databases and unstructured data.  You will be introduced to Big Data and work with Big Data engines like Hadoop and Spark. You will also gain experience with creating Data Warehouses and utilize Business Intelligence tools to analyze and extract valuable business insights from data .   
 
 More details about the professional certificate here: <a href=https://www.coursera.org/professional-certificates/ibm-data-engineer><strong>IBM Data Engineering Professional Certificate</strong></a>
 
@@ -29,3 +29,8 @@ This Professional Certificate contains 13 courses, as follows:
 | 12     | [Data Engineering and Machine Learning using Spark](./Course%2012%20-%20Data%20Engineering%20and%20Machine%20Learning%20using%20Spark/)|
 | 13     | [Data Engineering Capstone Project](./Course%2013%20-%20Data%20Engineering%20Capstone%20Project/)|
 
+## Contact
+
+Gmail: vishaljoshi9675@gmail.com
+
+Linkedin: [Vishal Joshi](https://www.linkedin.com/in/vishaljoshi06/)
