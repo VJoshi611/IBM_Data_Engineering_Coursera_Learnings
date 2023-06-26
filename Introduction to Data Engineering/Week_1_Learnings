@@ -241,63 +241,24 @@ Which of the data roles is responsible for extracting, integrating, and organizi
 The field of data engineering concerns itself with the mechanics for the flow and access of data. Which one of the following statements captures the goal of data engineering?
 - Make quality data available for fact-finding and business decision-making
 
-## **Graded Quiz**
+## Graded Quiz
 
 ### Question 1
-
 A modern data ecosystem includes a network of continually evolving entities. It includes:
-
-- **Data sources, enterprise data repository, business stakeholders, and tools, applications, and infrastructure to manage data**
-- Data sources, databases, and programming languages
-- Social media sources, data repositories, and APIs
-- Data providers, databases, and programming languages
-
-These are the key entities of a modern data ecosystem.
+- Data sources, enterprise data repository, business stakeholders, and tools, applications, and infrastructure to manage data**
 
 ### Question 2
-
 Data Engineers work within the data ecosystem to:
-
-- Provide business intelligence solutions by monitoring data on different business functions
-- Analyze data for deriving insights
-- **Develop and maintain data architectures**
-- Analyze data for actionable insights
-
-One of the responsibilities of a Data Engineer in a data ecosystem is to develop and maintain data architectures so that data is available for business operations and analysis.
+- Develop and maintain data architectures
 
 ### Question 3
-
 The goal of data engineering is to make quality data available for fact-finding and decision-making. Which one of these statements captures the process of data engineering?
-
-- Processing data and making it available to users securely
-- Collecting, processing, and storing data
-- **Collecting, processing, storing, and making data available to users securely**
-- Collecting, processing, and making data available to users securely
-
-Data engineering includes the collection of data from disparate sources, processing data so that it is usable, storing processed data, and making it available to users securely.
+- Collecting, processing, storing, and making data available to users securely
 
 ### Question 4
-
 Data extracted from disparate sources can be stored in:
-
-- Databases only
-- Data Lakes only
-- **Databases, data warehouses, data lakes, or any other type of data repository**
-- Data Warehouses only
-
-Data extracted from multiple sources can be stored in any type of data repository, such as, databases, data warehouses, and data lakes.
+- Databases, data warehouses, data lakes, or any other type of data repository
 
 ### Question 5
-
 From the provided list, select the three emerging technologies that are shaping today’s data ecosystem.
-
-- Big Data, Internet of Things, and Dashboarding
-- Machine Language, Cloud Computing, and Internet of Things
-- **Cloud Computing, Machine Learning, and Big Data**
-- Cloud Computing, Internet of Things, and Dashboarding
-
-Emerging technologies such as Cloud Computing, Machine Learning, and Big Data are shaping today’s data ecosystem and its possibilities.
-
-
-
-
+- Cloud Computing, Machine Learning, and Big Data
