@@ -1,5 +1,6 @@
 # The value we can derive from data really depends on just two things – 
 1] the accuracy of data and
+
 2] the efficiency with which we’re able to access the data we need,  when we need it. 
 
 # Future Scope :
@@ -7,7 +8,7 @@ Dice Tech Job Report of 2020 lists data engineering as the fastest-growing tech 
 To quote a Forbes 2020 report on data in the coming decade, “The constant increase in data processing speeds and bandwidth, the nonstop invention of new tools
 for creating, sharing, and consuming data, and the steady addition of new data creators and consumers around the world, ensure that data growth continues unabated ”
 
-A modern data ecosystem includes a whole network of:
+## A modern data ecosystem includes a whole network of:
 + interconnected
 + independent,
 + continually evolving entities
