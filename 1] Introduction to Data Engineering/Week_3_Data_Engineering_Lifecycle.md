@@ -10,7 +10,9 @@ Different types of repositories your data might reside in, such as databases, da
    response times, provide a cost and time-efficient way in which data-driven decisions can be taken, improve end-user response time; and provide secure access and control.
 
 - A Data Lake is a data repository that can store large amounts of structured, semi-structured, and unstructured data in their native format. While a data warehouse
-   stores data that has been cleaned, processed, and transformed for a specific need, you do not need to define the structure and schema of data before loading into the data lake. 
+   stores data that has been cleaned, processed, and transformed for a specific need, you do not need to define the structure and schema of data before loading into 
+   the data lake. A data lake exists as a repository of raw data in its native format, straight from the source, to be transformed based on the use case for which it 
+   needs to be analyzed. 
 
 # RDBMS Use Case :
 - well suited for IOT and Data Warehouse(OLAP).
