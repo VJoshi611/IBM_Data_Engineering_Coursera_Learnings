@@ -23,7 +23,18 @@
 - relational databases struggle a little bit with heavy write intensive applications such as IoT or sensor data, social media data 
    because the B-tree data structures that drive, or power, these relational databases
 
-  # Quiz
+### Idenifying data source :
+- structure of the data, nature of the application, and the volume at which the data is getting ingested into your database.
+
+- data validations Load is the step where processed data is transported to a destination system or data repository. It could be: Initial loading, that is, populating all the data in the repository; Incremental loading, that is, applying ongoing updates and modifications as needed periodically; or Full refresh, that is, erasing contents of one or more tables and reloading with fresh data Load verification—which includes data checks for missing or null values, server performance, and monitoring load failures, are important parts of this process step.
+
+- Big Data refers to the dynamic, large and disparate volumes of data being created by people, tools, and machines. It requires new, innovative, and scalable technology to collect, host, and analytically process the vast amount of data gathered in order to derive real-time business insights that relate to consumers, risk, profit, performance, productivity management, and enhanced shareholder value.”
+
+- Hive is based on Hadoop, queries have very high latency—which means Hive is less appropriate for applications that need very fast response times. Also, Hive is read-based, and therefore not suitable for transaction processing that typically involves a high percentage of write operations. Hive is better suited for data warehousing tasks such as ETL, reporting, and data analysis and includes tools that enable easy access to data via SQL
+
+- 
+
+# Quiz
 
 ## Practice Quiz
 ### Question 1
