@@ -31,3 +31,18 @@
 - The data storage and integration layer makes data available for processing in both streaming and batch modes.
 - Use the LIKE operator to search for a specific pattern in a column.
 - In any data engineering role, you would be expected to be knowledgeable of operating systems, languages, databases, and infrastructure components, in addition to         data’s potential application in business.
+
+
+## Peer Graded Assignments :
+- There are two types of data repositories – Transactional and Analytical. Transactional systems, also known as Online Transaction Processing (or OLTP) systems, are designed for real-time execution of a large number of database transactions that are taking place simultaneously, typically online. Give two examples of the kind of transactional data for which an OLTP system may be used.
+
+--> 1] Banking transactions, 2] Shopping order entry.
+
+- According to the course material, the architecture of a data platform consists of five layers, each layer responsible for a specific set of tasks. List at least 2 layers in a data platform.
+
+--> 1] Data Collection, 2] Data Processing, 3] Data Storage
+
+- List two factors that you would consider in order to make a
+decision about the type of data store that meets your organization’s needs for a particular implementation. 
+
+--> 1] Frequency of data,  2] Volume of Data
