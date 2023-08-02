@@ -39,6 +39,10 @@ Your job is to design their relational database systems for improved operational
 Currently their data resides in several different systems: accounting software, suppliers’ databases, point of sales (POS) systems, and even spreadsheets. You will review the data in all of these systems and design a central database to house all of the data. you will then create the database objects and load them with source data. Finally, you will create subsets of data that your business partners require, export them, and then load them into staging databases that use different RDBMS.
 
 
+## **Hands-on Lab: Final Project**
+
+[Project : Database Design and Implementation](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0110EN-SkillsNetwork/labs/Final%20Project/labs_Lab_-_Final_Project_instructional-labs.md.html)
+
 **Tasks:**
 - Identify entities
 - Identify attributes
