@@ -42,7 +42,7 @@ Currently their data resides in several different systems: accounting software, 
 **Tasks:**
 - Identify entities
 - Identify attributes
-- Create an ERD
+- Create an ERD(using the pgAdmin ERD Tool)
 - Normalize tables
 - Define keys and relationships
 - Create database objects by generating and running the SQL script from the ERD Tool
