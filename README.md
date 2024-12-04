@@ -1,13 +1,50 @@
-<h1 align="center">IBM Data Engineering Professional Certificate</h1>
+# IBM Data Engineering Professional Certificate
 
-## About The Course :
-This repo shares my learnings from IBM Data Engineering Course From Coursera. This course provides good roadmap for beginner and content to learn BIG Data and Data Engineering from scratch with near real time industry ready projects.
+## Overview
 
-It is a self-paced course which will help you to explore data engineering domain. This course will help you to get knowledge required for Junior Data Engineer position or any entry-level positons in big data domain.
+Welcome to my repository showcasing the learnings from the **IBM Data Engineering Professional Certificate** offered on Coursera. This course provides a comprehensive roadmap for individuals looking to start their journey in the **data engineering** domain. It covers the fundamentals of **Big Data**, **ETL (Extract, Transform, Load)** processes, and essential technologies, preparing you for roles such as a **Junior Data Engineer** or other entry-level positions in the data field.
 
-By the end of this Professional Certificate Course, any begineer can be able to explain and perform the key tasks required in a data engineering role. You will use the Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You will also work with Relational Databases (RDBMS) and query data using SQL commands. Most of the social media data is unstructured and you will use NoSQL databases and unstructured data.  You will be introduced to Big Data and work with Big Data engines like Hadoop and Spark. You will also gain experience with creating Data Warehouses and utilize Business Intelligence tools to analyze and extract valuable business insights from data .   
+By the end of this course, you'll acquire hands-on experience with key tools and technologies used in the industry, and you'll be well-equipped to contribute to real-world projects in data engineering.
 
-More details about the professional certificate here: <a href=https://www.coursera.org/professional-certificates/ibm-data-engineer><strong>IBM Data Engineering Professional Certificate</strong></a>
+---
+
+## Key Learnings
+
+### 1. **ETL with Python & Shell Scripting**
+   - Develop your skills in **Extracting**, **Transforming**, and **Loading** data using **Python** and **Linux/UNIX shell scripts**.
+   
+### 2. **Database Management**
+   - Master **Relational Databases (RDBMS)** with **SQL** and explore **NoSQL** databases for handling unstructured data.
+   
+### 3. **Big Data Technologies**
+   - Dive deep into **Big Data engines** such as **Hadoop** and **Spark** to process and analyze large datasets efficiently.
+   
+### 4. **Data Warehousing & Business Intelligence**
+   - Gain practical experience in building **Data Warehouses** and using **Business Intelligence (BI) tools** to extract valuable insights from data.
+   
+---
+
+## Course Highlights
+
+- **Self-Paced Learning**: Learn at your own pace, with a blend of theoretical lessons and hands-on projects.
+- **Industry-Ready Skills**: Develop practical skills that are highly relevant in the data engineering field.
+- **Real-World Projects**: Work on projects that simulate real-world data engineering tasks, enhancing your problem-solving skills.
+
+---
+
+## How This Course Helps You
+
+- **Foundation for Junior Data Engineer Roles**: You'll gain the knowledge required to start your career in data engineering and be ready for entry-level positions in the field.
+- **Hands-on Experience**: Learn to work with industry-standard tools and technologies, including **Python**, **SQL**, **Hadoop**, and **Spark**, among others.
+- **Comprehensive Curriculum**: The course covers both **structured** and **unstructured** data, giving you a well-rounded skill set to handle various data types.
+
+---
+
+## Get Started
+
+For more detailed information and to begin your learning journey, visit the [IBM Data Engineering Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer).
+
+Feel free to explore this repository for the resources, exercises, and projects I completed throughout the course. If you have any questions or need clarification on any topic, don't hesitate to reach out!
 
 ## Specialization Syllabus
 
