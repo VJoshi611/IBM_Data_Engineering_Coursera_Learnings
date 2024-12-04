@@ -60,11 +60,13 @@ This Professional Certificate contains 13 courses, as follows:
 | 06     | [Hands-on Introduction to Linux Commands and Shell Scripting](./Course%206%20-%20Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting/)|
 | 07     | [Relational Database Administration (DBA)](./Course%207%20-%20Relational%20Database%20Administration%20(DBA)/)|
 | 08     | [ETL and Data Pipelines with Shell, Airflow and Kafka](./Course%208%20-%20ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/)|
-| 09     | [Getting Started with Data Warehousing and BI Analytics](./Course%209%20-%20Getting%20Started%20with%20Data%20Warehousing%20and%20BI%20Analytics/)|
-| 10     | [Introduction to NoSQL Databases](./Course%2010%20-%20Introduction%20to%20NoSQL%20Databases/)|
-| 11     | [Introduction to Big Data with Spark and Hadoop](./Course%2011%20-%20Introduction%20to%20Big%20Data%20with%20Spark%20and%20Hadoop/)|
-| 12     | [Data Engineering and Machine Learning using Spark](./Course%2012%20-%20Data%20Engineering%20and%20Machine%20Learning%20using%20Spark/)|
-| 13     | [Data Engineering Capstone Project](./Course%2013%20-%20Data%20Engineering%20Capstone%20Project/)|
-
+| 09     | [Data Warehouse Fundamentals](https://www.coursera.org/learn/data-warehouse-fundamentals?specialization=ibm-data-engineer)|
+| 10     | [BI Dashboards with IBM Cognos Analytics and Google Looker](https://www.coursera.org/learn/bi-dashboards-with-ibm-cognos-analytics-and-google-looker?specialization=ibm-data-engineer)
+| 11     | [Introduction to NoSQL Databases](./Course%2010%20-%20Introduction%20to%20NoSQL%20Databases/)|
+| 12     | [Introduction to Big Data with Spark and Hadoop](./Course%2011%20-%20Introduction%20to%20Big%20Data%20with%20Spark%20and%20Hadoop/)|
+| 13     | [Machine Learning using Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)|
+| 14     | [Data Engineering Capstone Project](./Course%2013%20-%20Data%20Engineering%20Capstone%20Project/)|
+| 15     | [Generative AI: Elevate your Data Engineering Career](https://www.coursera.org/learn/generative-ai-elevate-your-data-engineering-career?specialization=ibm-data-engineer)
+| 16     | [Data Engineering Career Guide and Interview Preparation](https://www.coursera.org/learn/data-engineering-career-guide-and-interview-preparation?specialization=ibm-data-engineer)
 ## Connect with me:
 Linkedin: [Vishal Joshi](https://www.linkedin.com/in/vishaljoshi06/)
