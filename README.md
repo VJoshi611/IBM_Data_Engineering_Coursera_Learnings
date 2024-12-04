@@ -29,8 +29,5 @@ This Professional Certificate contains 13 courses, as follows:
 | 12     | [Data Engineering and Machine Learning using Spark](./Course%2012%20-%20Data%20Engineering%20and%20Machine%20Learning%20using%20Spark/)|
 | 13     | [Data Engineering Capstone Project](./Course%2013%20-%20Data%20Engineering%20Capstone%20Project/)|
 
-## Contact
-
-Gmail: vishaljoshi9675@gmail.com
-
+## Connect with me:
 Linkedin: [Vishal Joshi](https://www.linkedin.com/in/vishaljoshi06/)
